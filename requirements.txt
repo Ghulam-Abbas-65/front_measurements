@@ -28,7 +28,7 @@ filelock==3.4.0
 Flask==2.2.2
 Flask-Babel==2.0.0
 mediapipe==0.9.0.1
-numpy==1.21.5
+numpy
 opencv-contrib-python==4.6.0.66
 opencv-python==4.6.0.66
 Pillow==8.4.0
