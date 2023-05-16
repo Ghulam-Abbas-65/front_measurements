@@ -34,4 +34,5 @@ opencv-python==4.6.0.66
 Pillow==8.4.0
 python-math
 gunicorn
-
+libgl1-mesa-glx
+libglib
